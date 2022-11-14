@@ -16,4 +16,4 @@ Dataset from Maven Analytics
 
 
 
-more details in the Jupyter Notebook file. 
+more detailed analysis in the Jupyter Notebook [file](https://github.com/atriap/Customer-Churn-Data-Analysis/blob/main/Customer%20Churn%20Analysis.ipynb). 
