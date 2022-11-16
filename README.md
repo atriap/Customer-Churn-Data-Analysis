@@ -3,7 +3,7 @@
 Dataset from [Maven Analytics](https://www.mavenanalytics.io/data-playground)
 
 **Scenario**
-As a data analyst for a fictional Telecommunications company that provides phone and internet services to 7,043 customers in California, and includes details about customer demographics, location, services, and current status.
+As a data analyst for a fictional Telecommunications company that provides phone and internet services to 7,043 customers in California, using the data provided which includes details about customer demographics, location, services, and current status to analyze their customers churn last quarter
 
 ## Questions
 1. How many customers joined the company during the last quarter?
@@ -14,6 +14,7 @@ As a data analyst for a fictional Telecommunications company that provides phone
 
 ![image](https://user-images.githubusercontent.com/104981673/201560783-488ffa39-3721-4ac9-8baa-4498e9b59b30.png)
 
+ [code](https://github.com/atriap/Customer-Churn-Data-Analysis/blob/main/Customer%20Churn%20Analysis.ipynb)
 
 ## Conclusion
 
@@ -35,4 +36,4 @@ As a data analyst for a fictional Telecommunications company that provides phone
 
 
 
-more detailed analysis in the Jupyter Notebook [file](https://github.com/atriap/Customer-Churn-Data-Analysis/blob/main/Customer%20Churn%20Analysis.ipynb). 
+more detailed analysis in the Jupyter Notebook [code](https://github.com/atriap/Customer-Churn-Data-Analysis/blob/main/Customer%20Churn%20Analysis.ipynb). 
